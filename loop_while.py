@@ -5,4 +5,4 @@ def print_square_number(i=1):
         i = i-1
 
 
-print_square_number()
+print_square_number(2)
