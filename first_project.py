@@ -6,4 +6,4 @@ def print_my_message(times):
     for i in range(1,times):
         print ('HelloNeerajinsidemethod');
 
-print_my_message(4);
+print_my_message(5);
